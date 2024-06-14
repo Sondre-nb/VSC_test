@@ -10,3 +10,7 @@ print("This one is to test if I can commit to a branch other than main, and see 
 # something else
 
 # now i want to merge and see what happenes
+
+
+
+# I want to keep this code, but add the other one
